@@ -97,7 +97,7 @@ extend为对象类型，对象内的属性可以是函数，也可以对象，�
 
 ```yaml
 grid: [object, array],
-colors: array,
+color: array,
 visualMap: [object, array],
 dataZoom: [object, array],
 toolbox: [object, array],
